@@ -1,6 +1,6 @@
 *{
     margin: 0;
-  font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
 
 }
 
@@ -27,8 +27,8 @@ body {
 }
 
 .top-bar {
-  background-color:  #548c82;
-  font-size: 14px;
+    background-color:  #548c82;
+    font-size: 14px;
 }
 
 .nav-link{
@@ -52,7 +52,7 @@ body {
 }
 
 .dropdown-menu :hover{
-        color: #1AC696;
+    color: #1AC696;
     font-size: 16px;
     margin-right: 20px;
 }
@@ -67,8 +67,8 @@ body {
 
 
 .top-bar {
-  background-color:  #548c82;
-  font-size: 14px;
+    background-color:  #548c82;
+    font-size: 14px;
 }
 
 .logo {
@@ -100,41 +100,41 @@ body {
 
 
 .hero-section {
-  height: 530px;
-  overflow: hidden;
+    height: 530px;
+    overflow: hidden;
 }
 
 
 .hero-overlay {
-  color: white;
-  text-shadow: 2px 2px 4px #000;
+    color: white;
+    text-shadow: 2px 2px 4px #000;
 }
 
 .btn{
     width: 150px;
-  background-color:  #1AC696;
-  color: white;
-  border: none;
-  padding: 10px 20px;
-  font-size: 16px;
-  border-radius: 5px;
+    background-color: #548c82;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
 }
 .btn:hover {
-  background-color: #148f7c;
+    background-color: #148f7c;
 }
 
 .hero-section {
-  height: 530px;
-  overflow: hidden;
+    height: 530px;
+    overflow: hidden;
 }
 .hero-overlay {
-  position: absolute;
-  top: 25%;
-  left: 200px;
-  width: 50%;
-  height: 100%;
-  padding-left: 100px;
-  padding-right: 20px;
+    position: absolute;
+    top: 25%;
+    left: 200px;
+    width: 50%;
+    height: 100%;
+    padding-left: 100px;
+    padding-right: 20px;
 }
 
 .form{
