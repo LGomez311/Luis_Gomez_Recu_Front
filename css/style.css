@@ -128,6 +128,17 @@ body {
     
 }
 
+.nav-link:hover {
+    color: #1AC696;
+    font-weight: bold;
+
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #1AC696;
+    color: white;
+    transition: background-color 0.3s ease;
+}
 
 .container-fluid {
     padding: 0;
