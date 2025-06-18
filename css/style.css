@@ -31,17 +31,6 @@ body {
     
 }
 
-
-.fig{
-    position: absolute;
-    display: flex;
-    justify-content: center;
-    color: black;
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 80%, 0 100%);
-}
-
-
-
 .phone-box {
     display: flex;
     justify-content: center;
@@ -324,7 +313,30 @@ footer p {
 }
 .navbar-nav {
     text-align: center;
- }
+ 
+}
+.logo-bg {
+    clip-path: none;
+    background-color: transparent;
+    padding: 0;
+    justify-content: center;
+}
+
+.logo {
+    height: 50px;
+    width: auto;
+}
+
+.header-custom {
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.form {
+    padding: 15px;
+}
 }
 
 
